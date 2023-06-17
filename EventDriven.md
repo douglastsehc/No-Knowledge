@@ -1,0 +1,1 @@
+https://nordicapis.com/5-protocols-for-event-driven-api-architectures/
